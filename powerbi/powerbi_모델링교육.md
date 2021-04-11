@@ -36,11 +36,11 @@
 
 # 1. Power BI architecutre
 
-![](E:\toone\holic_toone\doc\Visualization\webinar\power-bi-diagram2.png)
+![](https://github.com/holictoweb/business_analytics_platform/blob/master/images/power-bi-diagram2.png)
 
 
 
-![](E:\toone\holic_toone\doc\Visualization\webinar\Power-BI-architecture-v4.png)
+![](https://github.com/holictoweb/business_analytics_platform/blob/master/images/Power-BI-architecture-v4.png)
 
 
 
@@ -81,7 +81,7 @@
   - 실제 레포트를 보여 주는 단계에서 데이터 원본에 대한 연결 및 데이터 조회 작업이 발생
   - 실제적으로 최종 end user 입장에서 속도적인 이슈가 있을 수 있음.
 
-![image-20200622110910907](E:\toone\holic_toone\doc\image\image-20200622110910907.png)
+![image-20200622110910907](https://github.com/holictoweb/business_analytics_platform/blob/master/images/image-20200622110910907.png)
 
 
 
@@ -89,11 +89,11 @@
 
 - 기본 제공되는 chart 와  market place 에서 무료로 다운 받을 수 있는 custom chart가 존재함.
 
-![image-20200622111022621](E:\toone\holic_toone\doc\image\image-20200622111022621.png)
+![image-20200622111022621](https://github.com/holictoweb/business_analytics_platform/blob/master/images/image-20200622111022621.png)
 
 
 
-![image-20200622112552267](E:\toone\holic_toone\doc\image\image-20200622112552267.png)
+![image-20200622112552267](https://github.com/holictoweb/business_analytics_platform/blob/master/images/image-20200622112552267.png)
 
 
 
@@ -166,15 +166,15 @@ https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-june-2020-feature-summ
 
 
 
-![olapcube_2](E:\toone\holic_toone\doc\Visualization\webinar\olapcube_2.png)
+![olapcube_2](https://github.com/holictoweb/business_analytics_platform/blob/master/images/olapcube_2.png)
 
-![olapcube_1](E:\toone\holic_toone\doc\Visualization\webinar\olapcube_1.png)
+![olapcube_1](https://github.com/holictoweb/business_analytics_platform/blob/master/images/olapcube_1.png)
 
-![olapcube_4](E:\toone\holic_toone\doc\Visualization\webinar\olapcube_4.png)
+![olapcube_4](https://github.com/holictoweb/business_analytics_platform/blob/master/images/olapcube_4.png)
 
 
 
-![olapcube_3](E:\toone\holic_toone\doc\Visualization\webinar\olapcube_3.png)
+![olapcube_3](https://github.com/holictoweb/business_analytics_platform/blob/master/images/olapcube_3.png)
 
 
 
@@ -190,13 +190,13 @@ https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-june-2020-feature-summ
 
 #### - Flat Table
 
-![](E:\toone\holic_toone\doc\Visualization\webinar\table_create-1593044830959.png)
+![](https://github.com/holictoweb/business_analytics_platform/blob/master/images/table_create-1593044830959.png)
 
 
 
 #### - star schema
 
-<img src="E:\toone\holic_toone\doc\image\star schema.png" style="zoom:150%;" />
+<img src="https://github.com/holictoweb/business_analytics_platform/blob/master/images/star schema.png" style="zoom:150%;" />
 
 
 
@@ -312,7 +312,7 @@ YearMon = FORMAT('Table'[Date], "YYYYMM")
 
 - 실제 report가 수행 되는 시점의 백단에 수행 정보 확인
 
-![image-20200623145455725](E:\toone\holic_toone\doc\Power BI\webinar\image-20200623145455725.png)
+![image-20200623145455725](https://github.com/holictoweb/business_analytics_platform/blob/master/images/image-20200623145455725.png)
 
 
 
