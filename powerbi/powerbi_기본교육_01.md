@@ -1,27 +1,3 @@
-hjchung@holictoweboutlook249.onmicrosoft.com
-
-uchung@holictoweboutlook249.onmicrosoft.com
-
-jslee@holictoweboutlook249.onmicrosoft.com
-
-dhkim@holictoweboutlook249.onmicrosoft.com
-
-hichoi@holictoweboutlook249.onmicrosoft.com
-
->  bi 초대 완료
-
-syhwang@holictoweboutlook249.onmicrosoft.com
-
-joonserk.park@holictoweboutlook249.onmicrosoft.com
-
-hs.han@holictoweboutlook249.onmicrosoft.com
-
-
-
-초기 비밀번호 : !1234eukor
-
-
-
 
 
 Azure SQL Server 
