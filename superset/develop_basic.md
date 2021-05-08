@@ -1,4 +1,25 @@
+# super set 설치
 
+
+```
+# 기본 패키지 설치 
+
+sudo apt-get install build-essential libssl-dev libffi-dev libsasl2-dev libldap2-dev
+
+```
+
+```
+sudo pip3 install apache-superset
+
+sudo superset db upgrade
+
+sudo superset fab create-admin
+
+sudo superset init 
+
+# superset 실행 
+sudo superset run -p 8088 --with-threads --reload --debugger
+```
 
 
 ### chart
