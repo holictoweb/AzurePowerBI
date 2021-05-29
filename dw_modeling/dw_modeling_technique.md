@@ -25,9 +25,7 @@
 ## 
 
 |요소|내용|
-|=================|=====================|
-|Dimension|-부속 테이블(minor 테이블)
+|-------------|--------------------------|
+|Fact||
+|Dimension|-부속 테이블(minor 테이블)<br>- 각 Fact를 분석하는 하나의 관점<br><br>Dimension은 복수의 속성을 가지고 있으며 이것은 Drill-up과 Drill-down등 데이터분석의 요약수준에 대한 Navigation를 가능하게 하는 경로를 지님|
 
-- 각 Fact를 분석하는 하나의 관점
-
-Dimension은 복수의 속성을 가지고 있으며 이것은 Drill-up과 Drill-down등 데이터분석의 요약수준에 대한 Navigation를 가능하게 하는 경로를 지님|
